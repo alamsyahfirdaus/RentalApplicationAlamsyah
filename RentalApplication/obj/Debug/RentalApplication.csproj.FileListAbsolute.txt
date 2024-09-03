@@ -1,0 +1,14 @@
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\bin\Debug\RentalApplication.exe.config
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\bin\Debug\RentalApplication.exe
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\bin\Debug\RentalApplication.pdb
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.Properties.Resources.resources
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.csproj.GenerateResource.Cache
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.exe
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.pdb
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.MainForm.resources
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.MemberForm.resources
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.csprojResolveAssemblyReference.cache
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.ItemDataForm.resources
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.MenageItemsForm.resources
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.ItemDetailForm.resources
+D:\Projects\MicrosoftVSProjects\SMKYPC\Tahun Ajaran 2024-2025\RentalApplication\RentalApplication\obj\Debug\RentalApplication.RentalItemsForm.resources
